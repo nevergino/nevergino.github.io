@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nevergino.github.io/sitemap.html.gz
+Sitemap: https://nevergino.github.io/app/sitemap.html.gz
+Sitemap: https://nevergino.github.io/assets/sitemap.html.gz
+Sitemap: https://nevergino.github.io/css/sitemap.html.gz
+Sitemap: https://nevergino.github.io/includes/sitemap.html.gz
+Sitemap: https://nevergino.github.io/item/sitemap.html.gz
+Sitemap: https://nevergino.github.io/src/sitemap.html.gz
